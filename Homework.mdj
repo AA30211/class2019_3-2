@@ -4,50 +4,6 @@
 	"name": "Untitled",
 	"ownedElements": [
 		{
-			"_type": "UMLModel",
-			"_id": "AAAAAAFF+qBWK6M3Z8Y=",
-			"_parent": {
-				"$ref": "AAAAAAFF+h6SjaM2Hec="
-			},
-			"name": "Model",
-			"ownedElements": [
-				{
-					"_type": "UMLClassDiagram",
-					"_id": "AAAAAAFF+qBtyKM79qY=",
-					"_parent": {
-						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
-					},
-					"name": "Main",
-					"defaultDiagram": true
-				},
-				{
-					"_type": "UMLDataType",
-					"_id": "AAAAAAFtyeE8Fs3j9Kw=",
-					"_parent": {
-						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
-					},
-					"name": "귀신이 쪼"
-				},
-				{
-					"_type": "UMLClass",
-					"_id": "AAAAAAFtyeIhBM4qzZY=",
-					"_parent": {
-						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
-					},
-					"name": "귀신에게 잡히면 죽는 공포게임"
-				},
-				{
-					"_type": "UMLClass",
-					"_id": "AAAAAAFt5CxtKO5s2r8=",
-					"_parent": {
-						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
-					},
-					"name": "201730211 김지훈",
-					"documentation": "귀신에게 잡히면 죽는 공포게임"
-				}
-			]
-		},
-		{
 			"_type": "UMLActivity",
 			"_id": "AAAAAAFtqkYU7tnLGx0=",
 			"_parent": {
